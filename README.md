@@ -2,10 +2,9 @@
 Welcome to my GitHub profile! 
 
 ### 🚀 About Me  
-- 🔹 Backend Developer  
-Specialized in **Python**, **Django**, **SQL**, **PostgreSQL**, and **APIs**.
-- 🔭 I’m currently working on some cool Projects
+- 🔹 Backend Develope: Specialized in Python, Django, SQL, PostgreSQL, and APIs.
 - 🌱 I’m currently learning Frontend(html, css, javascript, Rreact, Nodejs...)
+- 🔭 I’m currently working on some cool Projects
 - 🤔 I am looking for a job as a Full-Stack Developer.
 - 📍 Based in **Berlin, Germany**
 
