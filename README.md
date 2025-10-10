@@ -14,5 +14,4 @@
 https://delshad-portfolio.netlify.app/
 
 ### 📫 Connect with me:  
-- 🔗 [LinkedIn](www.linkedin.com/in/delshad-ibrahim-delo)
 LinkedIn: www.linkedin.com/in/delshad-ibrahim-delo
